@@ -1,1 +1,1 @@
-Hi('This is')
+Hi('This is deleted all')
